@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vicente Reyes</h1>
-<h3 align="center">A passionate frontend developer from Chile</h3>
+<h3 align="center">A passionate frontend developer specialized on MERN stack from Chile</h3>
 
 </br>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **react, html, css, javascript**
+- 💬 Ask me about **react, html, css, javascript, expressjs**
 
 - 📄 Know about my experiences [a](a)
 
