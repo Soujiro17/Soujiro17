@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working on [NeuralGT](https://neuralgt.com/)
 
-- 🌱 I’m currently learning **react**
-
-- 💬 Ask me about **react, html, css, javascript, expressjs**
-
 - 📄 Know about my experiences [a](a)
 
 <h3 align="left">Connect with me:</h3>
