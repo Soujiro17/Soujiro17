@@ -5,10 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soujiro17" alt="soujiro17" /></a> </p>
 
-- 🔭 I’m currently working on [NeuralGT](https://neuralgt.com/)
-
-- 📄 Know about my experiences [a](a)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vicente-reyes-caceres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vicente-reyes-caceres" height="30" width="40" /></a>
